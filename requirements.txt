@@ -1,0 +1,10 @@
+# Python 3.12. On Windows, install torch from the CPU index first (smaller download):
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+numpy
+open3d
+opencv-python
+pillow
+plotly
+torch
+torchvision
+open_clip_torch

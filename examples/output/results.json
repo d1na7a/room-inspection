@@ -1,0 +1,1749 @@
+[
+  {
+    "id": "ADDED_0",
+    "kind": "ADDED",
+    "centre": [
+      -12.03,
+      3.394,
+      14.553
+    ],
+    "size_pct_of_scene": [
+      4.8,
+      7.4,
+      11.1
+    ],
+    "obb_extent": [
+      4.8219,
+      1.8854,
+      1.8414
+    ],
+    "n_points": 325,
+    "photo": "b_0025.jpg",
+    "box": [
+      497,
+      908,
+      693,
+      1079
+    ],
+    "label": "edge of a bed",
+    "label_conf": 0.666,
+    "label_top3": [
+      "edge of a bed",
+      "curtain",
+      "floor"
+    ],
+    "size_cm": 47.0,
+    "observe": {
+      "free": 14,
+      "occupied": 0,
+      "blocked": 26,
+      "unknown": 0,
+      "views": 40
+    },
+    "status": "confirmed",
+    "covered_by": null,
+    "verdict": "structure (ignored)"
+  },
+  {
+    "id": "ADDED_1",
+    "kind": "ADDED",
+    "centre": [
+      6.474,
+      5.3,
+      18.888
+    ],
+    "size_pct_of_scene": [
+      3.6,
+      1.7,
+      4.6
+    ],
+    "obb_extent": [
+      1.8669,
+      1.3589,
+      0.4625
+    ],
+    "n_points": 92,
+    "photo": "b_0120.jpg",
+    "box": [
+      1206,
+      993,
+      1311,
+      1077
+    ],
+    "label": "curtain",
+    "label_conf": 0.524,
+    "label_top3": [
+      "curtain",
+      "edge of a bed",
+      "box"
+    ],
+    "size_cm": 19.1,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 31,
+      "unknown": 9,
+      "views": 40
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "ADDED_2",
+    "kind": "ADDED",
+    "centre": [
+      7.971,
+      0.413,
+      9.568
+    ],
+    "size_pct_of_scene": [
+      4.2,
+      20.9,
+      14.5
+    ],
+    "obb_extent": [
+      9.7158,
+      4.6183,
+      0.7599
+    ],
+    "n_points": 851,
+    "photo": null,
+    "label": "unknown (no clear view)",
+    "label_conf": 0.0,
+    "size_cm": 96.5,
+    "observe": {
+      "free": 0,
+      "occupied": 17,
+      "blocked": 0,
+      "unknown": 0,
+      "views": 17
+    },
+    "status": "disputed",
+    "covered_by": null,
+    "verdict": "disputed"
+  },
+  {
+    "id": "ADDED_3",
+    "kind": "ADDED",
+    "centre": [
+      -1.043,
+      3.026,
+      8.195
+    ],
+    "size_pct_of_scene": [
+      30.2,
+      3.8,
+      9.8
+    ],
+    "obb_extent": [
+      12.6078,
+      2.5788,
+      0.9148
+    ],
+    "n_points": 552,
+    "photo": "b_0073.jpg",
+    "box": [
+      0,
+      938,
+      1607,
+      1079
+    ],
+    "label": "duvet",
+    "label_conf": 0.945,
+    "label_top3": [
+      "duvet",
+      "edge of a bed",
+      "bed"
+    ],
+    "size_cm": 131.5,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 0,
+      "unknown": 0,
+      "views": 0
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "ADDED_4",
+    "kind": "ADDED",
+    "centre": [
+      -14.463,
+      -7.772,
+      7.423
+    ],
+    "size_pct_of_scene": [
+      0.9,
+      1.6,
+      2.3
+    ],
+    "obb_extent": [
+      1.1651,
+      0.2772,
+      0.265
+    ],
+    "n_points": 26,
+    "photo": "b_0023.jpg",
+    "box": [
+      0,
+      23,
+      52,
+      60
+    ],
+    "label": "edge of a bed",
+    "label_conf": 0.887,
+    "label_top3": [
+      "edge of a bed",
+      "wall",
+      "headboard"
+    ],
+    "size_cm": 9.8,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 0,
+      "unknown": 9,
+      "views": 9
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "ADDED_5",
+    "kind": "ADDED",
+    "centre": [
+      4.178,
+      -2.172,
+      22.617
+    ],
+    "size_pct_of_scene": [
+      10.0,
+      6.2,
+      6.8
+    ],
+    "obb_extent": [
+      4.2917,
+      3.3124,
+      2.4311
+    ],
+    "n_points": 845,
+    "photo": "b_0120.jpg",
+    "box": [
+      1013,
+      489,
+      1223,
+      628
+    ],
+    "label": "handbag",
+    "label_conf": 1.0,
+    "label_top3": [
+      "handbag",
+      "clothes",
+      "dresser"
+    ],
+    "size_cm": 37.8,
+    "observe": {
+      "free": 0,
+      "occupied": 40,
+      "blocked": 0,
+      "unknown": 0,
+      "views": 40
+    },
+    "status": "disputed",
+    "covered_by": "REMOVED_0",
+    "verdict": "CHANGE",
+    "replaces": "REMOVED_0"
+  },
+  {
+    "id": "ADDED_6",
+    "kind": "ADDED",
+    "centre": [
+      -13.1,
+      -11.617,
+      15.319
+    ],
+    "size_pct_of_scene": [
+      0.5,
+      1.4,
+      0.9
+    ],
+    "obb_extent": [
+      0.576,
+      0.332,
+      0.108
+    ],
+    "n_points": 20,
+    "photo": "b_0022.jpg",
+    "box": [
+      514,
+      77,
+      521,
+      111
+    ],
+    "label": "plant",
+    "label_conf": 0.297,
+    "label_top3": [
+      "plant",
+      "floor",
+      "headboard"
+    ],
+    "size_cm": 6.1,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 0,
+      "unknown": 31,
+      "views": 31
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "ADDED_7",
+    "kind": "ADDED",
+    "centre": [
+      8.011,
+      -1.263,
+      27.582
+    ],
+    "size_pct_of_scene": [
+      0.7,
+      1.2,
+      2.0
+    ],
+    "obb_extent": [
+      0.898,
+      0.3094,
+      0.2175
+    ],
+    "n_points": 23,
+    "photo": "b_0120.jpg",
+    "box": [
+      1299,
+      602,
+      1313,
+      622
+    ],
+    "label": "cup",
+    "label_conf": 0.663,
+    "label_top3": [
+      "cup",
+      "vase",
+      "mug"
+    ],
+    "size_cm": 9.0,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 34,
+      "unknown": 6,
+      "views": 40
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "ADDED_8",
+    "kind": "ADDED",
+    "centre": [
+      -14.575,
+      -3.444,
+      18.242
+    ],
+    "size_pct_of_scene": [
+      1.6,
+      1.4,
+      1.7
+    ],
+    "obb_extent": [
+      0.9094,
+      0.5131,
+      0.2678
+    ],
+    "n_points": 17,
+    "photo": "b_0023.jpg",
+    "box": [
+      518,
+      578,
+      545,
+      603
+    ],
+    "label": "wall",
+    "label_conf": 0.444,
+    "label_top3": [
+      "wall",
+      "plant",
+      "headboard"
+    ],
+    "size_cm": 9.4,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 4,
+      "unknown": 36,
+      "views": 40
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "ADDED_9",
+    "kind": "ADDED",
+    "centre": [
+      -13.672,
+      -0.393,
+      6.183
+    ],
+    "size_pct_of_scene": [
+      3.7,
+      13.6,
+      7.4
+    ],
+    "obb_extent": [
+      6.17,
+      3.2773,
+      1.4802
+    ],
+    "n_points": 537,
+    "photo": "b_0005.jpg",
+    "box": [
+      125,
+      352,
+      401,
+      1001
+    ],
+    "label": "dresser",
+    "label_conf": 0.641,
+    "label_top3": [
+      "dresser",
+      "drawer",
+      "bedside table"
+    ],
+    "size_cm": 56.8,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 0,
+      "unknown": 9,
+      "views": 9
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "ADDED_10",
+    "kind": "ADDED",
+    "centre": [
+      -11.407,
+      2.621,
+      8.228
+    ],
+    "size_pct_of_scene": [
+      5.2,
+      4.7,
+      14.7
+    ],
+    "obb_extent": [
+      6.2747,
+      2.1508,
+      1.0376
+    ],
+    "n_points": 277,
+    "photo": "b_0009.jpg",
+    "box": [
+      210,
+      930,
+      639,
+      1064
+    ],
+    "label": "floor",
+    "label_conf": 0.423,
+    "label_top3": [
+      "floor",
+      "mirror",
+      "box"
+    ],
+    "size_cm": 62.4,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 0,
+      "unknown": 4,
+      "views": 4
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "ADDED_11",
+    "kind": "ADDED",
+    "centre": [
+      8.265,
+      -4.569,
+      10.908
+    ],
+    "size_pct_of_scene": [
+      1.7,
+      7.5,
+      5.3
+    ],
+    "obb_extent": [
+      3.7009,
+      1.9273,
+      0.3329
+    ],
+    "n_points": 194,
+    "photo": "b_0120.jpg",
+    "box": [
+      1353,
+      3,
+      1487,
+      253
+    ],
+    "label": "mirror",
+    "label_conf": 0.998,
+    "label_top3": [
+      "mirror",
+      "curtain",
+      "wardrobe"
+    ],
+    "size_cm": 36.7,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 0,
+      "unknown": 22,
+      "views": 22
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "ADDED_12",
+    "kind": "ADDED",
+    "centre": [
+      -8.192,
+      3.47,
+      11.494
+    ],
+    "size_pct_of_scene": [
+      2.5,
+      2.2,
+      7.4
+    ],
+    "obb_extent": [
+      3.241,
+      0.6531,
+      0.1566
+    ],
+    "n_points": 84,
+    "photo": "b_0014.jpg",
+    "box": [
+      806,
+      964,
+      832,
+      1079
+    ],
+    "label": "wall",
+    "label_conf": 0.196,
+    "label_top3": [
+      "wall",
+      "cup",
+      "phone"
+    ],
+    "size_cm": 33.9,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 40,
+      "unknown": 0,
+      "views": 40
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "ADDED_13",
+    "kind": "ADDED",
+    "centre": [
+      -13.199,
+      -8.256,
+      16.43
+    ],
+    "size_pct_of_scene": [
+      2.2,
+      1.9,
+      2.3
+    ],
+    "obb_extent": [
+      0.9765,
+      0.8762,
+      0.7819
+    ],
+    "n_points": 39,
+    "photo": "b_0022.jpg",
+    "box": [
+      520,
+      273,
+      577,
+      325
+    ],
+    "label": "headboard",
+    "label_conf": 0.438,
+    "label_top3": [
+      "headboard",
+      "wall",
+      "plant"
+    ],
+    "size_cm": 10.4,
+    "observe": {
+      "free": 23,
+      "occupied": 0,
+      "blocked": 0,
+      "unknown": 17,
+      "views": 40
+    },
+    "status": "confirmed",
+    "covered_by": null,
+    "verdict": "structure (ignored)"
+  },
+  {
+    "id": "ADDED_14",
+    "kind": "ADDED",
+    "centre": [
+      -4.428,
+      -3.879,
+      20.17
+    ],
+    "size_pct_of_scene": [
+      3.6,
+      2.1,
+      3.6
+    ],
+    "obb_extent": [
+      1.7545,
+      1.448,
+      0.3406
+    ],
+    "n_points": 140,
+    "photo": "b_0068.jpg",
+    "box": [
+      814,
+      435,
+      891,
+      466
+    ],
+    "label": "vase",
+    "label_conf": 0.906,
+    "label_top3": [
+      "vase",
+      "cup",
+      "plant"
+    ],
+    "size_cm": 18.0,
+    "observe": {
+      "free": 40,
+      "occupied": 0,
+      "blocked": 0,
+      "unknown": 0,
+      "views": 40
+    },
+    "status": "confirmed",
+    "covered_by": null,
+    "verdict": "CHANGE",
+    "moved_from": "REMOVED_0"
+  },
+  {
+    "id": "ADDED_15",
+    "kind": "ADDED",
+    "centre": [
+      -12.292,
+      -12.051,
+      15.657
+    ],
+    "size_pct_of_scene": [
+      1.0,
+      3.5,
+      1.4
+    ],
+    "obb_extent": [
+      1.4408,
+      0.6478,
+      0.2397
+    ],
+    "n_points": 32,
+    "photo": "b_0022.jpg",
+    "box": [
+      557,
+      45,
+      579,
+      122
+    ],
+    "label": "headboard",
+    "label_conf": 0.257,
+    "label_top3": [
+      "headboard",
+      "plant",
+      "curtain"
+    ],
+    "size_cm": 14.1,
+    "observe": {
+      "free": 0,
+      "occupied": 29,
+      "blocked": 0,
+      "unknown": 0,
+      "views": 29
+    },
+    "status": "disputed",
+    "covered_by": null,
+    "verdict": "disputed"
+  },
+  {
+    "id": "ADDED_16",
+    "kind": "ADDED",
+    "centre": [
+      -11.099,
+      -12.369,
+      16.485
+    ],
+    "size_pct_of_scene": [
+      0.9,
+      2.7,
+      1.1
+    ],
+    "obb_extent": [
+      1.1286,
+      0.5161,
+      0.2477
+    ],
+    "n_points": 24,
+    "photo": "b_0041.jpg",
+    "box": [
+      562,
+      5,
+      577,
+      62
+    ],
+    "label": "headboard",
+    "label_conf": 0.248,
+    "label_top3": [
+      "headboard",
+      "plant",
+      "cushion"
+    ],
+    "size_cm": 11.9,
+    "observe": {
+      "free": 0,
+      "occupied": 29,
+      "blocked": 0,
+      "unknown": 0,
+      "views": 29
+    },
+    "status": "disputed",
+    "covered_by": null,
+    "verdict": "disputed"
+  },
+  {
+    "id": "ADDED_17",
+    "kind": "ADDED",
+    "centre": [
+      6.167,
+      2.867,
+      23.831
+    ],
+    "size_pct_of_scene": [
+      1.1,
+      1.2,
+      2.0
+    ],
+    "obb_extent": [
+      0.9658,
+      0.4685,
+      0.2686
+    ],
+    "n_points": 33,
+    "photo": "b_0120.jpg",
+    "box": [
+      1219,
+      810,
+      1243,
+      834
+    ],
+    "label": "edge of a bed",
+    "label_conf": 0.418,
+    "label_top3": [
+      "edge of a bed",
+      "box",
+      "floor"
+    ],
+    "size_cm": 9.7,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 26,
+      "unknown": 14,
+      "views": 40
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "ADDED_18",
+    "kind": "ADDED",
+    "centre": [
+      4.981,
+      2.026,
+      23.192
+    ],
+    "size_pct_of_scene": [
+      0.9,
+      1.8,
+      2.1
+    ],
+    "obb_extent": [
+      0.9521,
+      0.6008,
+      0.294
+    ],
+    "n_points": 37,
+    "photo": "b_0120.jpg",
+    "box": [
+      1152,
+      761,
+      1175,
+      799
+    ],
+    "label": "cable",
+    "label_conf": 0.277,
+    "label_top3": [
+      "cable",
+      "edge of a bed",
+      "drawer"
+    ],
+    "size_cm": 9.5,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 32,
+      "unknown": 8,
+      "views": 40
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "ADDED_19",
+    "kind": "ADDED",
+    "centre": [
+      2.793,
+      -0.31,
+      19.549
+    ],
+    "size_pct_of_scene": [
+      0.7,
+      1.2,
+      1.6
+    ],
+    "obb_extent": [
+      0.8276,
+      0.4005,
+      0.1182
+    ],
+    "n_points": 15,
+    "photo": "b_0105.jpg",
+    "box": [
+      1066,
+      589,
+      1084,
+      618
+    ],
+    "label": "towel",
+    "label_conf": 0.251,
+    "label_top3": [
+      "towel",
+      "edge of a bed",
+      "duvet"
+    ],
+    "size_cm": 8.6,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 40,
+      "unknown": 0,
+      "views": 40
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "ADDED_20",
+    "kind": "ADDED",
+    "centre": [
+      7.041,
+      5.515,
+      16.927
+    ],
+    "size_pct_of_scene": [
+      0.7,
+      2.3,
+      1.4
+    ],
+    "obb_extent": [
+      0.9316,
+      0.4796,
+      0.2867
+    ],
+    "n_points": 30,
+    "photo": "b_0115.jpg",
+    "box": [
+      1360,
+      1005,
+      1384,
+      1079
+    ],
+    "label": "curtain",
+    "label_conf": 0.553,
+    "label_top3": [
+      "curtain",
+      "edge of a bed",
+      "floor"
+    ],
+    "size_cm": 9.2,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 19,
+      "unknown": 0,
+      "views": 19
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "ADDED_21",
+    "kind": "ADDED",
+    "centre": [
+      -13.476,
+      3.518,
+      18.606
+    ],
+    "size_pct_of_scene": [
+      1.1,
+      0.6,
+      1.8
+    ],
+    "obb_extent": [
+      0.7987,
+      0.3126,
+      0.165
+    ],
+    "n_points": 18,
+    "photo": "b_0041.jpg",
+    "box": [
+      509,
+      932,
+      528,
+      954
+    ],
+    "label": "floor",
+    "label_conf": 0.201,
+    "label_top3": [
+      "floor",
+      "curtain",
+      "headboard"
+    ],
+    "size_cm": 8.4,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 27,
+      "unknown": 13,
+      "views": 40
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "ADDED_22",
+    "kind": "ADDED",
+    "centre": [
+      10.517,
+      -0.646,
+      19.081
+    ],
+    "size_pct_of_scene": [
+      1.3,
+      2.3,
+      3.6
+    ],
+    "obb_extent": [
+      1.7604,
+      0.5503,
+      0.3054
+    ],
+    "n_points": 42,
+    "photo": "b_0120.jpg",
+    "box": [
+      1493,
+      582,
+      1530,
+      646
+    ],
+    "label": "floor",
+    "label_conf": 0.612,
+    "label_top3": [
+      "floor",
+      "wall",
+      "towel"
+    ],
+    "size_cm": 18.5,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 40,
+      "unknown": 0,
+      "views": 40
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "ADDED_23",
+    "kind": "ADDED",
+    "centre": [
+      10.717,
+      -11.503,
+      22.798
+    ],
+    "size_pct_of_scene": [
+      0.6,
+      2.3,
+      1.0
+    ],
+    "obb_extent": [
+      0.9671,
+      0.4518,
+      0.1419
+    ],
+    "n_points": 26,
+    "photo": "b_0120.jpg",
+    "box": [
+      1423,
+      22,
+      1439,
+      76
+    ],
+    "label": "floor",
+    "label_conf": 0.339,
+    "label_top3": [
+      "floor",
+      "curtain",
+      "cup"
+    ],
+    "size_cm": 9.7,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 0,
+      "unknown": 40,
+      "views": 40
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "ADDED_24",
+    "kind": "ADDED",
+    "centre": [
+      6.583,
+      4.532,
+      20.876
+    ],
+    "size_pct_of_scene": [
+      2.5,
+      1.0,
+      2.5
+    ],
+    "obb_extent": [
+      1.4483,
+      0.8907,
+      0.2844
+    ],
+    "n_points": 38,
+    "photo": "b_0120.jpg",
+    "box": [
+      1229,
+      928,
+      1293,
+      967
+    ],
+    "label": "headboard",
+    "label_conf": 0.207,
+    "label_top3": [
+      "headboard",
+      "floor",
+      "curtain"
+    ],
+    "size_cm": 11.5,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 27,
+      "unknown": 13,
+      "views": 40
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "ADDED_25",
+    "kind": "ADDED",
+    "centre": [
+      4.993,
+      3.245,
+      23.339
+    ],
+    "size_pct_of_scene": [
+      0.4,
+      1.0,
+      2.1
+    ],
+    "obb_extent": [
+      0.9378,
+      0.1925,
+      0.1294
+    ],
+    "n_points": 20,
+    "photo": "b_0120.jpg",
+    "box": [
+      1163,
+      832,
+      1174,
+      860
+    ],
+    "label": "floor",
+    "label_conf": 0.53,
+    "label_top3": [
+      "floor",
+      "edge of a bed",
+      "box"
+    ],
+    "size_cm": 9.3,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 35,
+      "unknown": 5,
+      "views": 40
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "ADDED_26",
+    "kind": "ADDED",
+    "centre": [
+      7.394,
+      -10.862,
+      22.576
+    ],
+    "size_pct_of_scene": [
+      0.6,
+      2.6,
+      1.4
+    ],
+    "obb_extent": [
+      1.081,
+      0.4004,
+      0.1389
+    ],
+    "n_points": 25,
+    "photo": "b_0120.jpg",
+    "box": [
+      1248,
+      70,
+      1259,
+      128
+    ],
+    "label": "wall",
+    "label_conf": 0.235,
+    "label_top3": [
+      "wall",
+      "floor",
+      "edge of a bed"
+    ],
+    "size_cm": 11.0,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 0,
+      "unknown": 40,
+      "views": 40
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "ADDED_27",
+    "kind": "ADDED",
+    "centre": [
+      0.912,
+      -8.196,
+      21.383
+    ],
+    "size_pct_of_scene": [
+      1.5,
+      0.7,
+      1.5
+    ],
+    "obb_extent": [
+      0.7766,
+      0.5963,
+      0.0717
+    ],
+    "n_points": 17,
+    "photo": "b_0105.jpg",
+    "box": [
+      949,
+      187,
+      984,
+      196
+    ],
+    "label": "edge of a bed",
+    "label_conf": 0.967,
+    "label_top3": [
+      "edge of a bed",
+      "floor",
+      "wall"
+    ],
+    "size_cm": 8.0,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 0,
+      "unknown": 40,
+      "views": 40
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "ADDED_28",
+    "kind": "ADDED",
+    "centre": [
+      4.039,
+      2.048,
+      22.636
+    ],
+    "size_pct_of_scene": [
+      1.1,
+      1.1,
+      2.0
+    ],
+    "obb_extent": [
+      0.9368,
+      0.5908,
+      0.2855
+    ],
+    "n_points": 18,
+    "photo": "b_0120.jpg",
+    "box": [
+      1096,
+      772,
+      1124,
+      795
+    ],
+    "label": "cable",
+    "label_conf": 0.313,
+    "label_top3": [
+      "cable",
+      "edge of a bed",
+      "curtain"
+    ],
+    "size_cm": 9.3,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 36,
+      "unknown": 4,
+      "views": 40
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "REMOVED_0",
+    "kind": "REMOVED",
+    "centre": [
+      4.199,
+      -2.088,
+      23.976
+    ],
+    "size_pct_of_scene": [
+      7.6,
+      6.6,
+      7.9
+    ],
+    "obb_extent": [
+      3.8563,
+      3.0999,
+      2.5188
+    ],
+    "n_points": 944,
+    "photo": "a_0116.jpg",
+    "box": [
+      1068,
+      456,
+      1237,
+      590
+    ],
+    "label": "vase",
+    "label_conf": 0.986,
+    "label_top3": [
+      "vase",
+      "dresser",
+      "lamp"
+    ],
+    "size_cm": 33.3,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 40,
+      "unknown": 0,
+      "views": 40
+    },
+    "status": "unobserved",
+    "covered_by": "ADDED_5",
+    "verdict": "covered",
+    "moved_to": "ADDED_14"
+  },
+  {
+    "id": "REMOVED_1",
+    "kind": "REMOVED",
+    "centre": [
+      -4.298,
+      -3.631,
+      20.816
+    ],
+    "size_pct_of_scene": [
+      2.2,
+      2.2,
+      4.7
+    ],
+    "obb_extent": [
+      2.0862,
+      0.8615,
+      0.3024
+    ],
+    "n_points": 102,
+    "photo": "a_0067.jpg",
+    "box": [
+      841,
+      400,
+      891,
+      434
+    ],
+    "label": "edge of a bed",
+    "label_conf": 0.324,
+    "label_top3": [
+      "edge of a bed",
+      "towel",
+      "duvet"
+    ],
+    "size_cm": 21.3,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 40,
+      "unknown": 0,
+      "views": 40
+    },
+    "status": "unobserved",
+    "covered_by": "ADDED_14",
+    "verdict": "unobserved"
+  },
+  {
+    "id": "REMOVED_2",
+    "kind": "REMOVED",
+    "centre": [
+      -12.091,
+      0.723,
+      5.448
+    ],
+    "size_pct_of_scene": [
+      1.1,
+      3.3,
+      2.3
+    ],
+    "obb_extent": [
+      1.4272,
+      0.6059,
+      0.467
+    ],
+    "n_points": 74,
+    "photo": "a_0007.jpg",
+    "box": [
+      130,
+      853,
+      256,
+      1079
+    ],
+    "label": "paper towel roll",
+    "label_conf": 0.992,
+    "label_top3": [
+      "paper towel roll",
+      "vase",
+      "cup"
+    ],
+    "size_cm": 14.9,
+    "observe": {
+      "free": 25,
+      "occupied": 0,
+      "blocked": 0,
+      "unknown": 0,
+      "views": 25
+    },
+    "status": "confirmed",
+    "covered_by": null,
+    "verdict": "CHANGE"
+  },
+  {
+    "id": "REMOVED_3",
+    "kind": "REMOVED",
+    "centre": [
+      7.952,
+      2.476,
+      12.586
+    ],
+    "size_pct_of_scene": [
+      1.8,
+      6.0,
+      4.0
+    ],
+    "obb_extent": [
+      2.8923,
+      0.5739,
+      0.5135
+    ],
+    "n_points": 80,
+    "photo": "a_0121.jpg",
+    "box": [
+      1416,
+      779,
+      1532,
+      1052
+    ],
+    "label": "curtain",
+    "label_conf": 0.895,
+    "label_top3": [
+      "curtain",
+      "towel",
+      "edge of a bed"
+    ],
+    "size_cm": 28.9,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 40,
+      "unknown": 0,
+      "views": 40
+    },
+    "status": "unobserved",
+    "covered_by": "ADDED_2",
+    "verdict": "unobserved"
+  },
+  {
+    "id": "REMOVED_4",
+    "kind": "REMOVED",
+    "centre": [
+      1.887,
+      -2.141,
+      21.861
+    ],
+    "size_pct_of_scene": [
+      0.6,
+      1.1,
+      2.4
+    ],
+    "obb_extent": [
+      1.0707,
+      0.4723,
+      0.0514
+    ],
+    "n_points": 24,
+    "photo": "a_0113.jpg",
+    "box": [
+      1025,
+      519,
+      1042,
+      542
+    ],
+    "label": "edge of a bed",
+    "label_conf": 0.258,
+    "label_top3": [
+      "edge of a bed",
+      "pillow",
+      "bed"
+    ],
+    "size_cm": 11.0,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 40,
+      "unknown": 0,
+      "views": 40
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "REMOVED_5",
+    "kind": "REMOVED",
+    "centre": [
+      -15.712,
+      0.687,
+      20.582
+    ],
+    "size_pct_of_scene": [
+      0.4,
+      1.7,
+      1.9
+    ],
+    "obb_extent": [
+      0.9783,
+      0.4004,
+      0.1435
+    ],
+    "n_points": 19,
+    "photo": "a_0023.jpg",
+    "box": [
+      479,
+      805,
+      495,
+      843
+    ],
+    "label": "clothes",
+    "label_conf": 0.54,
+    "label_top3": [
+      "clothes",
+      "bottle",
+      "wardrobe"
+    ],
+    "size_cm": 9.7,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 40,
+      "unknown": 0,
+      "views": 40
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "REMOVED_6",
+    "kind": "REMOVED",
+    "centre": [
+      9.671,
+      1.911,
+      24.787
+    ],
+    "size_pct_of_scene": [
+      0.4,
+      0.9,
+      1.3
+    ],
+    "obb_extent": [
+      0.6003,
+      0.3434,
+      0.1432
+    ],
+    "n_points": 15,
+    "photo": "a_0121.jpg",
+    "box": [
+      1412,
+      732,
+      1424,
+      754
+    ],
+    "label": "headboard",
+    "label_conf": 0.211,
+    "label_top3": [
+      "headboard",
+      "floor",
+      "curtain"
+    ],
+    "size_cm": 6.3,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 24,
+      "unknown": 16,
+      "views": 40
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "REMOVED_7",
+    "kind": "REMOVED",
+    "centre": [
+      10.161,
+      -1.915,
+      24.391
+    ],
+    "size_pct_of_scene": [
+      0.9,
+      1.9,
+      1.9
+    ],
+    "obb_extent": [
+      0.8288,
+      0.7159,
+      0.1729
+    ],
+    "n_points": 24,
+    "photo": "a_0121.jpg",
+    "box": [
+      1424,
+      512,
+      1453,
+      556
+    ],
+    "label": "floor",
+    "label_conf": 0.919,
+    "label_top3": [
+      "floor",
+      "wall",
+      "edge of a bed"
+    ],
+    "size_cm": 8.6,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 10,
+      "unknown": 30,
+      "views": 40
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  },
+  {
+    "id": "REMOVED_8",
+    "kind": "REMOVED",
+    "centre": [
+      10.672,
+      -9.647,
+      22.389
+    ],
+    "size_pct_of_scene": [
+      0.8,
+      2.4,
+      1.4
+    ],
+    "obb_extent": [
+      1.1477,
+      0.386,
+      0.0823
+    ],
+    "n_points": 23,
+    "photo": "a_0121.jpg",
+    "box": [
+      1454,
+      35,
+      1472,
+      108
+    ],
+    "label": "curtain",
+    "label_conf": 0.486,
+    "label_top3": [
+      "curtain",
+      "wall",
+      "edge of a bed"
+    ],
+    "size_cm": 12.1,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 7,
+      "unknown": 33,
+      "views": 40
+    },
+    "status": "unobserved",
+    "covered_by": "ADDED_11",
+    "verdict": "unobserved"
+  },
+  {
+    "id": "REMOVED_9",
+    "kind": "REMOVED",
+    "centre": [
+      -12.446,
+      2.034,
+      21.21
+    ],
+    "size_pct_of_scene": [
+      1.0,
+      0.9,
+      1.6
+    ],
+    "obb_extent": [
+      0.7872,
+      0.4039,
+      0.0831
+    ],
+    "n_points": 16,
+    "photo": "a_0023.jpg",
+    "box": [
+      664,
+      877,
+      674,
+      901
+    ],
+    "label": "edge of a bed",
+    "label_conf": 0.269,
+    "label_top3": [
+      "edge of a bed",
+      "curtain",
+      "mirror"
+    ],
+    "size_cm": 8.3,
+    "observe": {
+      "free": 0,
+      "occupied": 0,
+      "blocked": 33,
+      "unknown": 7,
+      "views": 40
+    },
+    "status": "unobserved",
+    "covered_by": null,
+    "verdict": "unobserved"
+  }
+]

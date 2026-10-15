@@ -1,0 +1,30 @@
+[
+  {
+    "type": "moved",
+    "label": "vase",
+    "ids": [
+      "REMOVED_0",
+      "ADDED_14"
+    ],
+    "distance_cm": 103,
+    "text": "vase moved about 103 cm"
+  },
+  {
+    "type": "added",
+    "label": "handbag",
+    "ids": [
+      "ADDED_5"
+    ],
+    "size_cm": 38,
+    "text": "handbag added, where the vase used to be"
+  },
+  {
+    "type": "removed",
+    "label": "paper towel roll",
+    "ids": [
+      "REMOVED_2"
+    ],
+    "size_cm": 15,
+    "text": "paper towel roll removed"
+  }
+]

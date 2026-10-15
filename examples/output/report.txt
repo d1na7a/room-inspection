@@ -1,0 +1,9 @@
+WHAT CHANGED IN THE ROOM
+Video A (before) vs video B (after). Distances are approximate: the scale comes from one tape measurement.
+
+- vase moved about 103 cm (before: a_0116.jpg, after: b_0068.jpg); its old spot is now hidden behind the handbag
+- handbag added, about 38 cm across, where the vase used to be (b_0120.jpg)
+- paper towel roll removed, about 15 cm across (a_0007.jpg)
+
+39 candidate blobs -> 3 reported changes.
+Rejected: 3 disputed (other video has geometry there), 30 unobserved (occluded or not reconstructed), 2 scene surfaces.

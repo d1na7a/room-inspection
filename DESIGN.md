@@ -22,9 +22,9 @@ The previous spot of the vase is hidden behind the added handbag, instead of gue
 
 3. Points in the 'after' cloud with nothing nearby it in the 'before' cloud are considered possible additions, and the reverse would consider possible removals. They are grouped into blobs which means there were 39 detections, where the thresholds are relative to the size of the scene because of COLMAP's arbitary unit system .
 
-4. Each blob casts rays from the other video's camera through the position with four possible outcomes given: seen empty, something there, blocked view or nothing reconstructed. A special case was given where an item blocking a view was considered a change considered as a "covered by" blob.
+4. Rays are casted from the other video's camera blob through the position with four possible outcomes given: seen empty, something there, blocked view or nothing reconstructed. A special case was given where an item blocking a view was considered a change considered as a "covered by" blob.
 
-5. Each verified change there is a photo cropped and labelled with "CLIP" which is an image model ran locally. A removed and added blob is paired together and considered to be "moved". Measurements of the bed were made to convert the distances into centimetres. The output given is the report of the before and after panels as well as a 3D view.
+5. Each verified change there is a photo cropped and labelled with "CLIP" which is an image model ran locally. A removed and added blob is paired together and considered to be "moved" when they have the same label and similar size. Measurements of the bed were made to convert the distances into centimetres. The output given is the report of the before and after panels as well as a 3D view.
 
 ## Key decisions and tradeoffs
 

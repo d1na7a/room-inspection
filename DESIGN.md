@@ -34,7 +34,7 @@ The previous spot of the vase is hidden behind the added handbag, instead of gue
 
 3. Thresholds similar to scene size - COLMAP uses arbitary units, so a point must count by moving 3-4 centimetres. This meant smaller movements can't be detected so lower thresholds would bring noise.
 
-4. Ray casting - Checking the visibility from the video's camera, allowing it to remove 35/39 of the detections. This meant it was quite sensitive, and that it would rather miss a change than report a false detection.
+4. Ray casting - Checking the visibility from the video's camera, allowing it to remove 35/39 of the detections. This meant it was quite cautious, and that it would rather miss a change than report a false detection.
 
 5. Special case label pairing - Allowed for a resolution for the vase and handbag case, depends on both objects having considered labels.
 
@@ -44,7 +44,7 @@ The previous spot of the vase is hidden behind the added handbag, instead of gue
 
 ## Issues and resolutions
 
-1. The vase movement was initially undetected, I resolved this by increasing the voxel scene from 150 to 250 and the threshold from 3 to 2 voxels.
+1. The vase movement was initially undetected, I resolved this by making the voxel scene finer and the threshold from 3 to 2 voxels.
 
 2. Added handbag and initial vase spot cancelled eachother out, they had blocked each other's check and had become rejected, to which the 'covered by' special case was used to resolve this issue.
 
@@ -52,7 +52,8 @@ The previous spot of the vase is hidden behind the added handbag, instead of gue
 
 ## Accuracy
 
-- Bedside table: vase moved 117 cm but detected as 103 cm (-12%), the handbag width is 31 cm but recorded as 38 cm (+23%) presumably because of the strap of the handbag being recorded in width measures, paper towel roll height is 20 cm but recorded as 15 cm (-25%).
+- Bedside table: vase moved 117 cm but detected as 103 cm (-12%), the handbag width is 31 cm but recorded as 38 cm (+23%) presumably because of the strap of the handbag being recorded in width measures,
+- Dressing table: paper towel roll height is 20 cm but recorded as 15 cm (-25%).
 - All real changes found, 0 false alarms with possibilities narrowed down
 - Data based off of one scene, which does not prove any success rate
 
